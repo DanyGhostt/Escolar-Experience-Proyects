@@ -10,11 +10,19 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 <p align="center">
-  <b>[ES]</b> Repositorio de proyectos y prácticas de laboratorio de sistemas embebidos y microcontroladores (ESP32 / AVR), abarcando desde control en ensamblador y periféricos básicos hasta IoT, servidores web y telemetría en tiempo real.<br>
-  <b>[EN]</b> Embedded systems and microcontroller laboratory practices portfolio (ESP32 / AVR), ranging from low-level assembly control and basic peripherals to IoT, web servers, and real-time telemetry.
+  <b>[ES]</b> Colección curada de prácticas de laboratorio y proyectos de ingeniería en sistemas embebidos y microcontroladores (ESP32 / AVR), abarcando desde control a bajo nivel en ensamblador hasta IoT, servidores web y telemetría en tiempo real.<br>
+  <b>[EN]</b> Curated collection of academic and engineering projects in embedded systems and microcontrollers (ESP32 / AVR), covering low-level assembly control, mixed-signal sensor interfacing, web servers, and real-time IoT telemetry.
 </p>
 
 </div>
+
+---
+
+## 🎯 Áreas de Enfoque / Focus Areas
+
+- **Control de Motores y Actuadores / Motor Control & Actuation:** Generación de modulación PWM, puentes H (L298N/L293D), control de sentido y velocidad, temporizaciones y encoders.
+- **Electrónica y Sensores / Mixed-Signal & Sensors:** Acondicionamiento y lectura de sensores analógicos y digitales (LDR, DHT11, DS18B20 OneWire, humedad de suelo), visualización gráfica en pantallas OLED SSD1306.
+- **Conectividad e IoT / IoT & Wireless Connectivity:** Bluetooth SPP clásico, servidores web HTTP embebidos en ESP32, sincronización horaria por protocolo NTP e integración en la nube con Thinger.io.
 
 ---
 
