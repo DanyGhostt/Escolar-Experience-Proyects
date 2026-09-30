@@ -1,0 +1,26 @@
+# Compilacion y temporales de Arduino / Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.lst
+*.map
+
+# Editor y entorno / IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporales de Office / Excel temporary lock files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Sistema Operativo / OS temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
